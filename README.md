@@ -44,14 +44,16 @@ Whether you're designing a website, branding project, or mobile app, this tool m
 ## 🖼️ Screenshots
 
 > *Tip: Replace these URLs with your own screenshots after uploading them.*
+![image](https://github.com/user-attachments/assets/fac68e9c-234f-47c1-ad15-556fc6487fc6)
 
-![Desktop View](https://github.com/user-attachments/assets/your-desktop-screenshot)  
 *Main interface with palette controls*
 
-![Lock Feature](https://github.com/user-attachments/assets/your-lock-screenshot)  
+![image](https://github.com/user-attachments/assets/accc7400-a8d9-4d35-a5ff-7a5cd2d818b8)
+
 *Lock and unlock specific colors*
 
-![Mobile Layout](https://github.com/user-attachments/assets/your-mobile-screenshot)  
+![image](https://github.com/user-attachments/assets/1ecf75a1-14a8-440c-a06e-741ea0f3dbd4)
+
 *Mobile-friendly experience*
 
 ---
